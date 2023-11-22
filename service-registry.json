@@ -1,0 +1,5 @@
+{
+  "order-service": "http://localhost:4002",
+  "inventory-service": "http://localhost:4001",
+  "product-service": "http://localhost:4003"
+}
